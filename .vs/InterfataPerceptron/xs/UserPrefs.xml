@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5CAF40D0-4561-4F12-B400-3488613759E9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWindow.cs">
+    <Files>
+      <File FileName="ITerminalCommand.cs" Line="7" Column="21" />
+      <File FileName="TerminalCommand.cs" Line="8" Column="52" />
+      <File FileName="IChart.cs" Line="7" Column="21" />
+      <File FileName="Chart.cs" Line="43" Column="24" />
+      <File FileName="IFileManager.cs" Line="6" Column="24" />
+      <File FileName="DataManagement.cs" Line="25" Column="32" />
+      <File FileName="FileManager.cs" Line="63" Column="44" />
+      <File FileName="MainWindow.cs" Line="18" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfataPerceptron" expanded="True">
+            <Node name="InterfataPerceptron" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../FileManager.cs" line="28" offsetX="128" offsetY="607" expression="arguments" liveUpdate="False" />
+    <Watch file="../../../FileManager.cs" line="28" offsetX="426" offsetY="647" expression="arguments[0]" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.ItemProperties.InterfataPerceptron PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

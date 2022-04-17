@@ -1,0 +1,9 @@
+/home/razvan/Proiect/InterfataPerceptron/InterfataPerceptron/bin/Release/InterfataPerceptron.exe
+/home/razvan/Proiect/InterfataPerceptron/InterfataPerceptron/bin/Release/OxyPlot.dll
+/home/razvan/Proiect/InterfataPerceptron/InterfataPerceptron/bin/Release/OxyPlot.GtkSharp.dll
+/home/razvan/Proiect/InterfataPerceptron/InterfataPerceptron/bin/Release/OxyPlot.pdb
+/home/razvan/Proiect/InterfataPerceptron/InterfataPerceptron/bin/Release/OxyPlot.xml
+/home/razvan/Proiect/InterfataPerceptron/InterfataPerceptron/bin/Release/OxyPlot.GtkSharp.pdb
+/home/razvan/Proiect/InterfataPerceptron/InterfataPerceptron/obj/x86/Release/InterfataPerceptron.csproj.CoreCompileInputs.cache
+/home/razvan/Proiect/InterfataPerceptron/InterfataPerceptron/obj/x86/Release/InterfataPerceptron.csproj.CopyComplete
+/home/razvan/Proiect/InterfataPerceptron/InterfataPerceptron/obj/x86/Release/InterfataPerceptron.exe
